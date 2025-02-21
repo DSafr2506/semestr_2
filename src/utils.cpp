@@ -13,3 +13,7 @@ int multiplication(int h, int j){
     int result_03 = h * j; 
     return result_03;
 }
+
+double division(double x, double y) {
+    return x / y;
+}
