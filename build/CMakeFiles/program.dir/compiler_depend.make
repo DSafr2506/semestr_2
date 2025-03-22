@@ -791,8 +791,7 @@ CMakeFiles/program.dir/src/main.cpp.o: /Users/safroelena/Desktop/semestr_2/src/m
   /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include/limits.h \
   /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include/stdarg.h \
   /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include/stddef.h \
-  /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include/stdint.h \
-  /Users/safroelena/Desktop/semestr_2/src/utils.cpp
+  /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include/stdint.h
 
 CMakeFiles/program.dir/src/utils.cpp.o: /Users/safroelena/Desktop/semestr_2/src/utils.cpp \
   /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk/usr/include/Availability.h \
